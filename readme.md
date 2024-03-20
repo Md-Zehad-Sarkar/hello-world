@@ -1,6 +1,5 @@
 # Flower Shop
-- live link: https://md-zehad-sarkar.github.io/hello-world/
-
+- live link: https://md-zehad-sarkar.github.io/flower-shop/
 # description
 - only html single page application.
 - inline css use on this page 
